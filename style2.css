@@ -18,23 +18,62 @@ header{
     border: 0px;
     border-radius: 4px;
 }
-.hdd{position: absolute;
+#hdd{position: absolute;
     width: 45px;
     height: 16px;
     left: 453px;
     top: 32px;
     }
-.hddd{position: absolute;
+#hddd{position: absolute;
     width: 72px;
     height: 16px;
     left: 552px;
     top: 32px;
-    color: #2196F3;}
-.hdddd{position: absolute;
+    }
+#hdddd{position: absolute;
     width: 64px;
     height: 16px;
     left: 679px;
     top: 32px;}
+.nav-link{font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: var(#212121);
+    }
+.nav-link:hover,
+.nav-link:focus{
+    color:#2196F3;
+}
+.m1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    }
+#m{position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    }
+#mm{position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    }
+#m1{color: #2196F3;}
+#tl1{color: #757575;}
+#w1{position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    }
 .m1{
     font-style: normal;
     font-weight: 500;
