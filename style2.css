@@ -40,7 +40,7 @@ header{
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    color: var(#212121);
+    color:#000000;
     }
 .nav-link:hover,
 .nav-link:focus{
@@ -81,7 +81,9 @@ header{
     line-height: 16px;
     letter-spacing: 0.02em;
     color: #757575;
-    }
+}
+.m1:hover,
+.m1:focus{color: #2196F3;}
 #m{position: absolute;
     width: 135px;
     height: 16px;
@@ -127,6 +129,11 @@ header{
     left: 976px;
     top: 174px;
     
+}
+.hd2:hover
+{
+background: #2196F3;
+color: #FFFFFF;
 }
 #w1{position: absolute;
     width: 145px;
@@ -368,14 +375,6 @@ footer{position: absolute;
     font-size: 14px;
     line-height: 24px;
     color: #FFFFFF;}
-.m2{
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.02em;
-    color: rgba(255, 255, 255, 0.6);
-}
 #mmm{position: absolute;
     width: 231px;
     height: 21px;
